@@ -1,0 +1,72 @@
+[
+    {
+        "_id": {
+            "$oid": "6a00e7966e3f5e174040eccf"
+        },
+        "nombre": "Administrador",
+        "case": "ADMIN001",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJG1iQzJkcFRHcElHUUNFTFdVcUszOGVDR3libS4uYWFXNkVxQTEwdkJ5T2NLVUgvZDNzWlVX",
+                "subType": "00"
+            }
+        },
+        "rol": "admin"
+    },
+    {
+        "_id": {
+            "$oid": "6a00eaba1627dce43764bff1"
+        },
+        "nombre": "Secretaria",
+        "case": "SECRE001",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJFI3Q2F1UFdvbmpkV2cuS0VQS0VaWC5WMFJkRmo2Rzdyb3hOc29GdGo2TldsY0JkdTRMVVQ2",
+                "subType": "00"
+            }
+        },
+        "rol": "secretaria"
+    },
+    {
+        "_id": {
+            "$oid": "6a00eaba1627dce43764bff2"
+        },
+        "nombre": "Doctor",
+        "case": "DOC001",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJFZ4Sk5kQ1NrL2RXcmI5ejdZalNwNy5xZndPMEZWWnJSeWU5Y3BBRURDYUFxZEpIemh0eEdh",
+                "subType": "00"
+            }
+        },
+        "rol": "doctor"
+    },
+    {
+        "_id": {
+            "$oid": "6a00eaba1627dce43764bff3"
+        },
+        "nombre": "Supervisor",
+        "case": "SUPER001",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJEVOb3IuVkxqdWlMNjR5MThJVXY0YS5nbzJqQXVPSG01VUUvRnMweVVnUmM2dGdnalFIaTIu",
+                "subType": "00"
+            }
+        },
+        "rol": "supervisor"
+    },
+    {
+        "_id": {
+            "$oid": "6a00eaba1627dce43764bff4"
+        },
+        "nombre": "Recepcion",
+        "case": "RECEP001",
+        "password": {
+            "$binary": {
+                "base64": "JDJiJDEyJDRjNjg5U0czeVZSd2drTXkvNjVmd09IWWV5akRETW5ERDVEa3B4cDd5STVURWY1V0UwZ3RL",
+                "subType": "00"
+            }
+        },
+        "rol": "recepcion"
+    }
+]

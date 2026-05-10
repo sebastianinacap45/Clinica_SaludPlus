@@ -1,0 +1,56 @@
+[
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecda"
+        },
+        "paciente": "Juan Gonzalez",
+        "doctor": "Dr. Carlos Perez",
+        "fecha": "2026-05-10",
+        "hora": "09:00"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecdb"
+        },
+        "paciente": "Maria Fernandez",
+        "doctor": "Dra. Ana Lopez",
+        "fecha": "2026-05-11",
+        "hora": "10:00"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecdc"
+        },
+        "paciente": "Pedro Ramirez",
+        "doctor": "Dr. Felipe Rojas",
+        "fecha": "2026-05-12",
+        "hora": "11:00"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecdd"
+        },
+        "paciente": "Sofia Morales",
+        "doctor": "Dra. Camila Torres",
+        "fecha": "2026-05-13",
+        "hora": "12:00"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecde"
+        },
+        "paciente": "Lucas Herrera",
+        "doctor": "Dr. Diego Soto",
+        "fecha": "2026-05-14",
+        "hora": "13:00"
+    },
+    {
+        "_id": {
+            "$oid": "6a00ed5c79877722fa37f185"
+        },
+        "paciente": "Sebastian Pino",
+        "doctor": "Dr. Diego Soto",
+        "fecha": "2026-08-28",
+        "hora": "14:30"
+    }
+]

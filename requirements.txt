@@ -1,0 +1,4 @@
+pymongo
+bcrypt
+colorama
+dnspython

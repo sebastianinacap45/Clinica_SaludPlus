@@ -1,0 +1,42 @@
+[
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecd0"
+        },
+        "nombre": "Dr. Carlos Perez",
+        "especialidad": "Cardiologia",
+        "telefono": "+56911111111"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecd1"
+        },
+        "nombre": "Dra. Ana Lopez",
+        "especialidad": "Pediatria",
+        "telefono": "+56922222222"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecd2"
+        },
+        "nombre": "Dr. Felipe Rojas",
+        "especialidad": "Neurologia",
+        "telefono": "+56933333333"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecd3"
+        },
+        "nombre": "Dra. Camila Torres",
+        "especialidad": "Dermatologia",
+        "telefono": "+56944444444"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecd4"
+        },
+        "nombre": "Dr. Diego Soto",
+        "especialidad": "Traumatologia",
+        "telefono": "+56955555555"
+    }
+]

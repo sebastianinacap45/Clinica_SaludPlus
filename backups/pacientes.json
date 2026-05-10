@@ -1,0 +1,47 @@
+[
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecd5"
+        },
+        "nombre": "Juan Gonzalez",
+        "rut": "11.111.111-1",
+        "edad": 30,
+        "diagnostico": "Hipertension"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecd6"
+        },
+        "nombre": "Maria Fernandez",
+        "rut": "22.222.222-2",
+        "edad": 25,
+        "diagnostico": "Diabetes"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecd7"
+        },
+        "nombre": "Pedro Ramirez",
+        "rut": "33.333.333-3",
+        "edad": 40,
+        "diagnostico": "Migra\u00f1a"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecd8"
+        },
+        "nombre": "Sofia Morales",
+        "rut": "44.444.444-4",
+        "edad": 35,
+        "diagnostico": "Dermatitis"
+    },
+    {
+        "_id": {
+            "$oid": "6a00e7976e3f5e174040ecd9"
+        },
+        "nombre": "Lucas Herrera",
+        "rut": "55.555.555-5",
+        "edad": 50,
+        "diagnostico": "Artritis"
+    }
+]
