@@ -33,4 +33,4 @@ Incluye:
 ## 1. Clonar proyecto
 
 ```bash
-git clone https://github.com/usuario/Clinica_SaludPlus.git
+git clone https://github.com/sebastianinacap45/Clinica_SaludPlus.git
